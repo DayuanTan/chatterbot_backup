@@ -1,0 +1,19 @@
+categories:
+- cryptocurrency
+conversations:
+- - What is cryptocurrency
+  - Cryptocurrency is a medium of exchange, created and stored electronically in the blockchain, using encryption techniques to control the creation of monetary units and to verify the transfer of funds. Cryptocurrency is a digital money, created from code. Free of all governmental oversight, the cryptocurrency economy is monitored by a peer-to-peer internet protocol. Cryptocurrency is an encrypted string of data or a hash, encoded to signify one unit of currency.
+- - Most popular cyprocurrencies today
+  - Bitcoin, Ethereum, Ripple, Litecoin, Monero, Ethereum Classic, Dash, Augur, NEM, and Waves.
+- - Bitcoin
+  - The one and only, the first and most famous cryptocurrency. Bitcoin serves as a digital gold standard in the whole cryptocurrency-industry, is used as a global means of payment and is the de-facto currency of cyber-crime like darknet markets or ransomware. After seven years in existence, Bitcoin‘s price has increased from zero to more than 650 Dollar, and its transaction volume reached more than 200.000 daily transactions.
+- - What is the future of Cryptocurrency
+  - The market of cryptocurrencies is fast and wild. Nearly every day new cryptocurrencies emerge, old die, early adopters get wealthy and investors lose money. Every cryptocurrency comes with a promise, mostly a big story to turn the world around. Few survive the first months, and most are pumped and dumped by speculators and live on as zombie coins until the last bagholder loses hope ever to see a return on his investment.
+- - Where did it originate from?
+  - The first cryptocurrency to capture the public imagination was Bitcoin, which was launched in 2009 by an individual or group known under the pseudonym Satoshi Nakamoto. 
+- - How does cryptocurrency work
+  -  Transactions are sent between peers from cryptocurrency wallets by matching up public codes which relate back to user-held private passwords (AKA cryptographic keys). Transactions made between peers are recorded on a public ledger of transactions called a blockchain. All users of a given cryptocurrency have access to the ledger if they choose to download a full node wallet (as opposed to holding their coins in a third party wallet like Coinbase). The transaction amounts are public, but who sent the transaction is encrypted. Each transaction leads back to a digital “cryptocurrency wallet.” Whoever owns the password (or key) to the wallet, owns the amount of cryptocurrency denoted on the ledger. When someone sends or receives cryptocurrency, when they send from one wallet to another wallet using a set of private and public passwords, that transaction is queued up to be added to the ledger. Many transactions are added to a ledger at once. These blocks of transactions are added sequentially. That is why the ledger and the technology behind it are called block chain. It is a chain of blocks of transactions.
+- - How does blockchain work
+  - When a peer-to-peer cryptocurrency transaction is made, that transaction is sent out to all users with “full node” wallets. Specific types of users called miners then try to solve a cryptographic puzzle (using software) which lets them add a “block” of transactions to the ledger. Whoever solves the puzzle first gets a few “newly mined” coins as a reward. Sometimes miners pool computing power and share the new coins. The algorithm relies on consensus. If the majority of users trying to solve the puzzle all submit the same transaction data, then it confirms that the transactions are correct.
+- - What is cryptocurrency mining
+  - People who are running software and hardware aimed at confirming transactions to the digital ledger are cryptocurrency miners. Solving cryptographic puzzles (via software) to add transactions to the ledger (the blockchain) in the hope of getting coins as a reward is cryptocurrency mining.
